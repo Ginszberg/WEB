@@ -13,4 +13,5 @@ My site will be a marketplace for high class sodas. Users will be able to view o
 
 **Versions:**
 *1.0.0*
-- Initial project structure 
+- Initial project structure
+    – Added index.html
