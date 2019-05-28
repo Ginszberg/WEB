@@ -1,8 +1,9 @@
 # WEB Project 2019 Semester B - BGU
 **Author: Eran Ginsberg**
+
 **Repository:
-[http://github.com/Ginszberg/web](http://github.com/Ginszberg/web)*
-*
+[http://github.com/Ginszberg/web](http://github.com/Ginszberg/web)**
+
 **Version: 1.0**
 ## Project subject
 High class Soda market
