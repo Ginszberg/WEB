@@ -6,17 +6,17 @@
 </head>
 <body>
 <main>
-<form action="">
+<form action="" method = "post">
     <div class="container">
         <h1>Sign in</h1>
 
-        <input type="text" placeholder="Enter Email" name="email" required>
+        <input type="text" placeholder="Enter Email" name="email" minlength="5" id = "user" required>
         <br/>
 
-        <input type="password" placeholder="Enter Password" name="psw" required>
+        <input type="password" placeholder="Enter Password" name="psw" minlength="8" id="pass" required>
         <br/>
         <label>
-            <input type="checkbox" checked="checked" name="remember"> Remember me
+            <input type="checkbox" checked="checked" name="remember" id="check"> Remember me
         </label>
         <br/>
         <div class="buttons">
@@ -29,7 +29,7 @@
     <br/>
     <hr>
     <a href="https://goo.gl/maps/e7k725W7db7ZY8WMA" target="_blank"> Find Us</a>
-    <a href="about.html" target="_self">About Us</a>
+    <a href="../about/about.html" target="_self">About Us</a>
     <aside>
         call us at: 03-520-2222 <br/>
         E-mail us at: publicrelations@foy.com
